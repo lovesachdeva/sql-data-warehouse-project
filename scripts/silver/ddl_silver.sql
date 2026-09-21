@@ -1,5 +1,7 @@
 /*
-
+========================================================================
+DDL Script : create silver table
+========================================================================
 */
 IF OBJECT_ID('silver.crm_cust_info','U') is not null
 DROP TABLE silver.crm_cust_info;
