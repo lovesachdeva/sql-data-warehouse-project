@@ -1,4 +1,6 @@
 /*
+store procedure for silver layer
+TO RUN : EXEC silver.load_silver
 */
 CREATE OR ALTER PROCEDURE silver.load_silver as
 BEGIN
